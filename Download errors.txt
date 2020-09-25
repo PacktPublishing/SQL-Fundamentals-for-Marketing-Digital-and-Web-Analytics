@@ -1,0 +1,42 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+count-sum_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140425&action=Download&authKey=!ANOU_gplC03u2bs
+
+databasestructure_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140480&action=Download&authKey=!ANOU_gplC03u2bs
+
+delete-statement_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140491&action=Download&authKey=!ANOU_gplC03u2bs
+
+distinct-statment_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140499&action=Download&authKey=!ANOU_gplC03u2bs
+
+ElementsofASchema_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140509&action=Download&authKey=!ANOU_gplC03u2bs
+
+first-select-statement_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140544&action=Download&authKey=!ANOU_gplC03u2bs
+
+insert-statement_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140635&action=Download&authKey=!ANOU_gplC03u2bs
+
+InstallingMYSQL_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140642&action=Download&authKey=!ANOU_gplC03u2bs
+
+InstallingMYSQLFinal_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140744&action=Download&authKey=!ANOU_gplC03u2bs
+
+InstallingMYSQLFinal_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140652&action=Download&authKey=!ANOU_gplC03u2bs
+
+SQLForMarketers_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140697&action=Download&authKey=!ANOU_gplC03u2bs
+
+join-multiple-tables_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140658&action=Download&authKey=!ANOU_gplC03u2bs
+
+moviecountbycategoryusecase_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140666&action=Download&authKey=!ANOU_gplC03u2bs
+
+MySQLInterface_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140673&action=Download&authKey=!ANOU_gplC03u2bs
+
+numeric-date-where_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140683&action=Download&authKey=!ANOU_gplC03u2bs
+
+order-by_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140690&action=Download&authKey=!ANOU_gplC03u2bs
+
+top-customer-usecase_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140722&action=Download&authKey=!ANOU_gplC03u2bs
+
+update-statement_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140731&action=Download&authKey=!ANOU_gplC03u2bs
+
+whereclause_Thumbnails.png - https://onedrive.live.com/?cid=392ff03bf25dc968&id=392FF03BF25DC968%21140821&action=Download&authKey=!ANOU_gplC03u2bs
+
+
+

@@ -1,0 +1,24 @@
+WEBVTT
+
+These days data is everywhere. Your customer interact in several places, your website, social media, emails, display ad, offline stores etc. All these interaction provide a ton of data that you can use to enahnce you marketing and business. In addition to the data collected by the companies they alos buy data from 3rd parties to enhance the customer profiles so that they can create better and targeted advertsing and also create better expereince for their customers.
+For marketers and marketing analysts to succeed in their craft.
+
+They have to understand the data that's available to them and how to pull that data from the databases to use to their advantage. 
+
+Marketers have generally relied on IT departments to help pull the required data that they need for thier job.
+
+However there comes a time when you can't wait for someone in tour IT or database department to pull the data for you.  You have to know how to pull the data from various tables and how to combine them together so that you can do your job.
+
+This course is designed to help you understand the fundamentals of how the data structure as well as
+
+write the queries so that you can be self-sufficient. As a Marketing Analysts, Digital Analyst you don't have to write very complex queires but need to know enough to pull the data for your dat to days jobs. 
+
+We will cover everything that you need to write siecle queries to do your job. After finishin this cours you won't be dependent on I.T. to help you write these queries and provide you the data. This course will also sevetr as a foundation for those who want to go deepers into database course
+
+Once you're done writing your sequel queries and have the data in the format that you want you can take
+
+that data and put it into tools like Xcel audio visualization tools such as Tablo for further processing
+
+and visualization.
+
+And then of course I will also go to some use cases so that you can see how the data is used.

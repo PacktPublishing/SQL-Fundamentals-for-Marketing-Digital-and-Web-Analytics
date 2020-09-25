@@ -1,0 +1,54 @@
+WEBVTT
+
+00:00.850 --> 00:05.690
+OK let's look at the interface that you will be using to interact with the data.
+
+Go ahead and launch my sequel workbench which is available in your start menu.
+
+Click on my sequel workbench and you will be taken to an interface that looks like what you're seeing
+
+on my screen.
+
+Look on the instant my sequel 57 is what we figure rude as a user click on road.
+
+00:26.860 --> 00:28.750
+You'll see the user is rude.
+
+00:28.780 --> 00:31.240
+The password is admin.
+
+00:31.270 --> 00:38.830
+That's right click on admin and you will be taken to an interface where you will be writing your queries
+
+00:38.920 --> 00:40.460
+and interacting with the tables.
+
+00:41.570 --> 00:43.760
+This interface has few key elements.
+
+00:43.760 --> 00:45.470
+One is where your cursor is.
+
+00:45.470 --> 00:46.330
+It's called quake.
+
+00:46.340 --> 00:51.330
+This is where you write the queries to pull the data that you need.
+
+00:51.800 --> 00:59.710
+Then underneath is the output and you will be able to see or output messages here on your left hand
+
+00:59.710 --> 01:00.050
+side.
+
+01:00.110 --> 01:04.290
+A bunch of links for you to navigate the database.
+
+01:04.460 --> 01:11.040
+The main one you should be focusing on is the schemas which has three schemas under it.
+
+01:11.090 --> 01:20.570
+Schemas are a way to organize objects underneath and objects such as table views stored procedures and
+
+01:20.570 --> 01:21.870
+functions.
